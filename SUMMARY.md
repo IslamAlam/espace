@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
+* [Login Setup](login.md)
+* [Import Data](import.md)
 
